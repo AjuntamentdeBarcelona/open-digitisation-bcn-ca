@@ -9,28 +9,28 @@
 // MANDATORY. A language label supported by Asciidoctor,
 // https://asciidoctor.org/docs/user-manual/#customizing-labels, e.g.,
 // en, es, or ca.
-:lang:
+:lang: ca
 //
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
 // and Z is optional.
-:revnumber: 0.1
+:revnumber: 1.0
 //
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/USERNAME/REPONAME'.
-:uri-public-repo:
+:uri-public-repo: https://github.com/AjuntamentdeBarcelona/open-digitisation-bcn-ca
 //
 // MANDATORY. Exactly the same value you give to key "name" in file antora.yml.
-:component-name:
+:component-name: ca/open-digitisation
 //
 // MANDATORY. Title of the document. In web format, it appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:_title:
+:_title: Mesura gov. digitalitazió oberta
 //
 // OPTIONAL. Subtitle of the document.
-:_subtitle:
+:_subtitle: Programari lliure i desenvolupament àgil de serveis a l’administració pública
 //
 // MANDATORY. Semi-colon-separated list of names.
-:authors:
+:authors: Francesca Bria, Paco Rodríguez, Malcolm Bain, Joan Batlle, Ana Bastida Vila, Xabier Barandiaran Fernández, Marius Boada Pla, Guillem Marpons, Xavier Roca Vilalta, Xavier Bes Segovia, Josep Carles Collazos, Joan Domènech Bas, Oscar Sanz García, Carlos Echevarría Meseguer, LLuís Girona Frisach, Anna Majó Crespo, Tomás Gea Calza, Javier Ruiz, Gemma Galdon, John Michaelides, Esther Bretschneider.
 //
 // OPTIONAL. Semi-colon-separated list of names.
 :_contributors:
@@ -45,12 +45,13 @@
 :revdate: {docdate}
 //
 // MANDATORY. Short summary of the contents of the document.
-:_summary:
+:_summary: Mesura de govern per a la digitalitazió oberta: programari lliure i desenvolupament àgil de serveis a l’administració pública. Pla digital de l’Ajuntament de Barcelona.
+
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
-:keywords: ethical digital standards, technology rights, barcelona, city council
+:keywords: estàndards digitals ètics, drets digitals, barcelona, ajuntament
 //
 // MANDATORY. Document's history.
 :_dochistory:

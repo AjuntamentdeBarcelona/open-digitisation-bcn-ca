@@ -17,7 +17,7 @@
 //
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/USERNAME/REPONAME'.
-:uri-public-repo:
+:uri-public-repo: https://github.com/AjuntamentdeBarcelona/open-digitisation-bcn-ca
 //
 // MANDATORY. Exactly the same value you give to key "name" in file antora.yml.
 :component-name: ca/open-digitisation
@@ -30,7 +30,7 @@
 :_subtitle: Programari lliure i desenvolupament àgil de serveis a l’administració pública
 //
 // MANDATORY. Semi-colon-separated list of names.
-:authors: Ajuntament de Barcelona
+:authors: Francesca Bria, Paco Rodríguez, Malcolm Bain, Joan Batlle, Ana Bastida Vila, Xabier Barandiaran Fernández, Marius Boada Pla, Guillem Marpons, Xavier Roca Vilalta, Xavier Bes Segovia, Josep Carles Collazos, Joan Domènech Bas, Oscar Sanz García, Carlos Echevarría Meseguer, LLuís Girona Frisach, Anna Majó Crespo, Tomás Gea Calza, Javier Ruiz, Gemma Galdon, John Michaelides, Esther Bretschneider.
 //
 // OPTIONAL. Semi-colon-separated list of names.
 :_contributors:
