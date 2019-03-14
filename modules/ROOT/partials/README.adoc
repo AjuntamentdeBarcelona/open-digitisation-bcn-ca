@@ -27,7 +27,7 @@
 :_title: Mesura gov. digitalitazió oberta
 //
 // OPTIONAL. Subtitle of the document.
-:_subtitle: Programari lliure i desenvolupament àgil de serveis a l’administració pública
+:_subtitle: Programari lliure i desenvolupament àgil de serveis a l'administració pública
 //
 // MANDATORY. Semi-colon-separated list of names.
 :authors: Francesca Bria, Paco Rodríguez, Malcolm Bain, Joan Batlle, Ana Bastida Vila, Xabier Barandiaran Fernández, Marius Boada Pla, Guillem Marpons, Xavier Roca Vilalta, Xavier Bes Segovia, Josep Carles Collazos, Joan Domènech Bas, Oscar Sanz García, Carlos Echevarría Meseguer, LLuís Girona Frisach, Anna Majó Crespo, Tomás Gea Calza, Javier Ruiz, Gemma Galdon, John Michaelides, Esther Bretschneider.
@@ -45,7 +45,7 @@
 :revdate: {docdate}
 //
 // MANDATORY. Short summary of the contents of the document.
-:_summary: Mesura de govern per a la digitalitazió oberta: programari lliure i desenvolupament àgil de serveis a l’administració pública. Pla digital de l’Ajuntament de Barcelona.
+:_summary: Mesura de govern per a la digitalitazió oberta: programari lliure i desenvolupament àgil de serveis a l'administració pública. Pla digital de l'Ajuntament de Barcelona.
 
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
