@@ -12,7 +12,7 @@ El PBCD ha d'assegurar que la tecnologia i la innovació digital actuen de facil
 
 Dins del PBCD s'han definit tres eixos estratègics amb els següents objectius (Figura 1):
 
-image::open-digit-p9-axes-ca.svg[FIGURA 1]
+image::open-digit-p9-axes-{lang}.svg[FIGURA 1]
 
 El Pla de Transformació Digital de l'Ajuntament de Barcelona (PTDA) és el full de ruta dels projectes TIC del mandat, global i per a cada Gerència, d'acord amb les prioritats polítiques.
 Aquest pla inclou també els projectes d'actualització tecnològica i els projectes d'adequació al nou marc legal establert per la Llei 39/2015, d'1 d'octubre, de Procediment Administratiu Comú de les Administracions Públiques (LPCAP).
