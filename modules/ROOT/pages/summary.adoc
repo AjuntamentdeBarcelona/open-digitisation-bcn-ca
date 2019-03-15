@@ -13,9 +13,7 @@ El Pla Barcelona Ciutat Digital estableix com un dels seus objectius prioritaris
 L'Institut Municipal d'Informàtica (IMI) és l'instrument per dur a terme aquesta transformació. L'Ajuntament de Barcelona va crear el passat 2016 un Comitè de Transformació Digital i, en paral·lel, l'IMI va crear el grup d'impuls de la Transformació Digital on es troben professionals dels diferents àmbits tecnològics.
 Ambdós instruments han estat creats per impulsar i governar aquest important procés.
 
-El Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis, creat per el Comissionat i l'IMI, l'octubre del 2016, després del llançament del Pla Digital de Transformació, és l'impulsor de
-
-la innovació i l'excel·lència tècnica enfocat al lliurament de resultats.
+El Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis, creat per el Comissionat i l'IMI, l'octubre del 2016, després del llançament del Pla Digital de Transformació, és l'impulsor de la innovació i l'excel·lència tècnica enfocat al lliurament de resultats.
 Aquest programa promou, a més, una cultura de la innovació, transparència i aprenentatge continu a tot l'Ajuntament, on es destaca:
 
 * La promoció del desenvolupament i lliurament de serveis digitals àgils, oberts i ètics.
@@ -58,9 +56,7 @@ Aquests documents són:
 
 * Guia de Compra pública de Tecnologia.
 
-L'ús responsable i ètic de dades, és un element L'ús responsable i ètic de dades, és un element essencial dins Pla de Transformació Digital de l'Ajuntament, en especial la estratègia de Dades Obertes i el Data Commons, els projectes
-
-“Data Driven” i la interoperabilitat basada en formats de dades oberts. Les corresponents directrius i la seva implementació es desenvoluparan en una nova mesura de govern sobre la Estratègia de l'Ús Responsable i Ètic de Dades a l'Ajuntament de Barcelona, on es concretaran els detalls tècnics, processos i responsabilitats.
+L'ús responsable i ètic de dades, és un element L'ús responsable i ètic de dades, és un element essencial dins Pla de Transformació Digital de l'Ajuntament, en especial la estratègia de Dades Obertes i el Data Commons, els projectes “Data Driven” i la interoperabilitat basada en formats de dades oberts. Les corresponents directrius i la seva implementació es desenvoluparan en una nova mesura de govern sobre la Estratègia de l'Ús Responsable i Ètic de Dades a l'Ajuntament de Barcelona, on es concretaran els detalls tècnics, processos i responsabilitats.
 
 En aquesta mesura de govern també s'explica com s'aplicaran les metodologies de desenvolupament àgil a l'Ajuntament de Barcelona, transformant els equips de producte verticals en grups de treball àgils orientats al servei a través de projectes emblemàtics.
 És per això que l'IMI està posant en marxa una Oficina Tècnica Àgil i un equip de projectes àgils.

@@ -45,7 +45,7 @@ Quan es parla de metodologies àgils, es fa referència a un grup de metodologie
 
 Les metodologies àgils promouen una gestió de projectes disciplinada que fomenta la constant revisió i adaptació a les necessitats dels usuaris i als canvis.Proporcionen un sistema organitzat que permet i facilita el treball en equip i l'autoorganització i afavoreixen la reducció del temps de desenvolupament.
 
-En referència a la sobirania tecnològica i de dades, podem afirmar que el programari lliure i de codi obert és “_tècnicament viable, econòmicament sostenible i socialment just:” footnote:[_Jordi Mas al seu llibre homònim (Col·lecció “Manuals i Formularis”, 15)_].
+En referència a la sobirania tecnològica i de dades, podem afirmar que el programari lliure i de codi obert és “_tècnicament viable, econòmicament sostenible i socialment just:_” footnote:[_Jordi Mas al seu llibre homònim (Col·lecció “Manuals i Formularis”, 15)_].
 Això es reflexa en uns beneficis concrets en l'administració local.
 
 * És *tècnicament viable* perquè permet reaprofitar projectes lliures existents, gràcies a la reducció de l'esforç d'implementació per cobrir necessitats pròpies.

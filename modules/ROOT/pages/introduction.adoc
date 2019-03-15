@@ -4,11 +4,12 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-L'era digital està modificant profunda i ràpidament la societat i, per tant, el model de relació dels ciutadans amb les empreses i les administracions públiques. La convergència entre la transformació digital, la participació ciutadana i la transparència obliga a canviar els models dels organismes públics per a que tinguin la capacitat d'adequar-se a les noves necessitats creades.
+L'era digital està modificant profunda i ràpidament la societat i, per tant, el model de relació dels ciutadans amb les empreses i les administracions públiques.
+La convergència entre la transformació digital, la participació ciutadana i la transparència obliga a canviar els models dels organismes públics per a que tinguin la capacitat d'adequar-se a les noves necessitats creades.
 Aquesta transformació representa un gran repte pel que fa a l'Ajuntament, amb una activitat molt regulada per condicionants legals, econòmics i de recursos humans.
 
 El Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis de l'Ajuntament de Barcelona vol proporcionar una orientació enfocada a servei i a la sobirania tecnològica per revitalitzar la totalitat del consistori, consolidant el govern dels serveis digitals, generant perfils i capacitats en programari lliure i de codi obert i us ètic de les dades i transformant la contractació pública.
-La implementació d'aquest enfocament, basat en metodologies àgils i ús de tecnologies obertes, ha demostrat eficiències en termes de prestació (performance) i costos que l'Ajuntament ha d'aprofitar.
+La implementació d'aquest enfocament, basat en metodologies àgils i ús de tecnologies obertes, ha demostrat eficiències en termes de prestació (_performance_) i costos que l'Ajuntament ha d'aprofitar.
 
 En aquesta línia, obre la contractació pública i la fa més transparent, senzilla i objectiva, generant les condicions per la participació d'un conjunt diversificat d'indústria local de talent, potenciant a les petites i mitjanes empreses del país.
 Alhora es revisa, també, els processos contractuals actuals per assegurar la sobirania tecnològica i de les dades.
