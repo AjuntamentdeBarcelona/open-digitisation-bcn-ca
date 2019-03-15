@@ -77,7 +77,7 @@ Les diferents gerències i direccions de servei podran utilitzar aquesta platafo
 . *Quadre comandament d'ecologia.*
 Es desenvoluparà un quadre de comandament que integri els àmbits de medi ambient, urbanisme, infraestructures, mobilitat i serveis urbans que aportarà una millor presa de decisions.
 
-. *Observatori de l'Habitatge de Barce-lona (OHB)*
+. *Observatori de l'Habitatge de Barcelona (OHB)*
 Es crearà un repositori de big data especialitzat en habitatge que permetrà analitzar les dades i establir polítiques públiques per combatre els problemes actuals en l'habitage.
 
 . *DCODE.*

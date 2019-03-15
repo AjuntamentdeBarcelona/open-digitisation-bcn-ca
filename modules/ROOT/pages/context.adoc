@@ -77,7 +77,7 @@ La privacitat i	seguretat de les dades resten assegurades.
 
 Amb el programari privatiu, aquests beneficis no existeixen o exigeixen costos econòmics i socials superiors.
 
-Des de l'any 2010, el Reial Decret 4/2010 (apar-tat 04.2) obliga a les Administracions Púbiques a utilitzar estàndards i formats oberts a l'hora de implementar serveis digitals i interactuar amb els ciutadans.
+Des de l'any 2010, el Reial Decret 4/2010 (apartat 04.2) obliga a les Administracions Púbiques a utilitzar estàndards i formats oberts a l'hora de implementar serveis digitals i interactuar amb els ciutadans.
 La llista d'estàndards i formats no és una elecció de cada entitat pública, sinó que existeix un llistat d'estàndards tipificat i normalitzat per la seva interoperabilitat.
 Per tant, les Administracions públiques utilitzaran estàndards oberts a fi de garantir la independència en l'elecció d'alternatives tecnològiques, la preservació de documents en el temps, i l'adaptabilitat al progrés de la tecnologia.
 
@@ -85,7 +85,7 @@ Els documents, serveis electrònics i aplicacions posats per les Administracions
 
 Fins fa poc temps les dades tenien una consideració residual i limitada, però la capacitat de procés informàtic ens ha portat a poder aprofitar i reutilitzar les dades.
 Al mateix temps, aquestes dades han augmentat de forma exponencial.
-Aquesta situació fa indispensable, per motius de seguretat, un control de les mateixes i a l'hora un alliberament per potenciar-ne la seva reutilització, amb el convenciment que les dades publiques poden generar negoci i millora social per tota la població.
+Aquesta situació fa indispensable, per motius de seguretat, un control de les mateixes i a l'hora un alliberament per potenciar la seva reutilització, amb el convenciment que les dades publiques poden generar negoci i millora social per tota la població.
 La combinació d'eines lliures i dades obertes ens situa a un nou horitzó on la transparència i la voluntat de compartir i treballar de forma comunitària, genera una nova organització de l'administració publica.
 
 == Metodologies àgils i programari lliure a altres administracions públiques
@@ -130,12 +130,12 @@ Això va provocar un estalvi de 2 milions d'euros anuals només en drets de llic
 Italia, al 2014, va escollir el software lliure com la primera opció per a l'Administració Pública.
 Van crear un document titulat “_Guias para la evaluación comparativa (de software)_”, on s'aprèn un mètode a seguir per prendre la decisió correcta a l'hora d'escollir un programari.
 El cas italià és molt important perquè es preocupa no només per la norma, sinó per la seva implementació.
-La guia elaborada per l'Agència Digital Italiana es va redactar amb participació tant de la Free Software Foun-dation Europe, com dels representants de diferents empreses de programari privatiu.
+La guia elaborada per l'Agència Digital Italiana es va redactar amb participació tant de la Free Software Foundation Europe, com dels representants de diferents empreses de programari privatiu.
 
 Les polítiques de tecnologies obertes per a l'administració pública europea son recolzades per l'acció de la Comissió Europea, que publica a la seva pròpia llicència lliure per a Administracions Públiques, la llicència EUPL, i centralitza els esforços en la seva plataforma “_Join Up_” on trobem literalment centenars d'experiències de migració o desenvolupament de programari lliure a les administracions europees.
 
 A nivell internacional, al Brasil, el govern va iniciar en paral·lel diversos projectes d'inclusió digital en diferents zones, basats en l'establiment de telecentres, l'objectiu dels quals era reduir l'exclusió digital, augmentar la capacitat professional, difondre el programari lliure i augmentar la participació popular en les noves tecnologies.
-El programari lliure ha jugat un paper fonamental en la creació d'aquests centres i està permetent que els qui acaben d'arribar al món digital puguin ferho amb programari legal.
+El programari lliure ha jugat un paper fonamental en la creació d'aquests centres i està permetent que els qui acaben d'arribar al món digital puguin fer-ho amb programari legal.
 
 Al 2004, el govern de Malàisia va iniciar el Pla mestre per a fomentar, adoptar i desenvolupar l'ús del programari lliure al sector públic, posant en marxa l'_Open Source Competency Center_ (OSCC) que va establir-se com un centre de referència nacional per a dirigir i donar suport a l'aplicació del programari lliure a l'Administració.
 

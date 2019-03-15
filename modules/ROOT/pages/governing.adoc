@@ -11,9 +11,9 @@ Per a la governança d'aquest procés s'utilitzaran diversos instruments entre e
 
 Els principals elements de governança són:
 
-* *Comissionat/da de Tecnologia i In-novació digital.*
+* *Comissionat/da de Tecnologia i Innovació digital.*
 Una de les seves missions és redissenyar i reorientar la tecnologia de Barcelona i les estratègies i polítiques d'innovació digital a través d'un procés amb participació activa d'actors claus de la ciutat.
-Dos dels ei-xos principals són la digitalització dels serveis públics i l'impuls d'un l'ecosistema innovador digital, que inclou la relació entre les administracions públiques, la ciutadania, les empreses i el món acadèmic.
+Dos dels eixos principals són la digitalització dels serveis públics i l'impuls d'un l'ecosistema innovador digital, que inclou la relació entre les administracions públiques, la ciutadania, les empreses i el món acadèmic.
 El comissionat disposa d'una oficina de seguiment i impuls de projectes que ha d'assegurar la coordinació municipal i mesurar l'impacte de la implementació d'aquest programa.
 
 * *Comissió de Transformació Digital de Barcelona.*

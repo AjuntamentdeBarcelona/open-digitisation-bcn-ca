@@ -33,7 +33,7 @@ Les metodologies àgils aportaran les eines necessàries per a dissenyar, constr
 
 La introducció d'un marc de treball àgil, necessitarà:
 
-* La creació d'equips multidisciplinars.
+* La creació d'equips multidisciplinaris.
 
 * La visió global de tot el cicle de vida del servei.
 
@@ -95,7 +95,7 @@ També garanteix que no s'obliga als ciutadans i ciutadanes a utilitzar solucion
 L'usuari, en aquest cas l'Ajuntament, pot decidir amb més llibertat quins sistemes evolucionar, redimensionar o substituir, així com establir polítiques pròpies en quant a seguretat, privacitat, actualitzacions i accés als sistemes.
 En el cas de les organitzacions, la sobirania també fomenta el control sobre els processos propis i la generació i conservació de coneixement.
 
-* *Flexibilitat*: els sistemes poden adequar-se millor a les necessitats dels usuaris i usuaries, i es poden adaptar i estendre a mida que aquestes necessitats evolucionen, sense dependre de cap proveïdor concret.
+* *Flexibilitat*: els sistemes poden adequar-se millor a les necessitats dels usuaris i usuàries, i es poden adaptar i estendre a mida que aquestes necessitats evolucionen, sense dependre de cap proveïdor concret.
 No només el desenvolupament és més flexible, també l'avaluació d'alternatives resulta més senzilla i barata, i les condicions d'operació i manteniment es poden modificar més fàcilment.
 
 * *Sostenibilitat*: la interoperabilitat permet que es puguin substituir aquelles parts dels sistemes que cal renovar sense que les dades no quedin mai inservibles.
@@ -172,7 +172,7 @@ La Guia de Compra Pública de Tecnologia (veure annex 12.6) i en la Guia de Comp
 
 == Capacitat, cultura i gestió del canvi organitzatiu
 
-La transformació ajuda als equips existents a capacitar-se i desenvolupar-se, convertint-los en equips interns ben preparats amb habilitats i capacitats per prendre la plena propietat dels serveis digitals de la ciutat, les dades, les decisions arquitec-tòniques i de compra.
+La transformació ajuda als equips existents a capacitar-se i desenvolupar-se, convertint-los en equips interns ben preparats amb habilitats i capacitats per prendre la plena propietat dels serveis digitals de la ciutat, les dades, les decisions arquitectòniques i de compra.
 
 Aquestes capacitats i habilitats estaran recolzades per un conjunt de comportaments i pràctiques (cultura organitzativa) i una estructura organitzativa que orientant-los a serveis, faciliti la col·laboració dels equips amb el suport puntual d'equips externs que puguin complementar i enriquir el coneixement dels recursos interns i obrir noves oportunitats professionals.
 

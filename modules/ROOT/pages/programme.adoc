@@ -16,7 +16,7 @@ El *Programa per a la Digitalització Oberta:*
 Aportarà serveis digitals de qualitat, ajustats a les necessitats dels ciutadans i orientats a salvaguardar el dret a la privacitat dels ciutadans (privacitat de les dades), serveis que, fent ús del programari lliure i de codi obert i estàndards oberts trencaran la dependència de formats, productes i solucions propietàries (sobirania tecnològica).
 
 Els serveis públics digitals han d'esdevenir veritables actius de la societat actual possibilitant la seva reutilització en altres ciutats.
-I per això calen actuacions també en l'àmbit de la compra pública de tecnologia que fomentin un enfocament més madur per la provisió de tecnologia al sector públic, proposant models de contractació multiproveïdor que promoguin la competència i la diversitat de proveïdors, facilitin l'adopció de noves tecnologies innova-dores s'allunyin dels grans contractes, creant així un nou mercat per a pimes innovadores.
+I per això calen actuacions també en l'àmbit de la compra pública de tecnologia que fomentin un enfocament més madur per la provisió de tecnologia al sector públic, proposant models de contractació multiproveïdor que promoguin la competència i la diversitat de proveïdors, facilitin l'adopció de noves tecnologies innovadores s'allunyin dels grans contractes, creant així un nou mercat per a pimes innovadores.
 
 Alhora, el programa genera perfils i capacitats en disseny centrats en l'usuari i metodologies àgils per flexibilitzar i accelerar el desenvolupament i execució d'aquests servei, i al mateix temps, obre la contractació publica i la fa més transparent, senzilla i objectiva proporcionant així un camí vers la sobirania tecnològica i de les dades.
 

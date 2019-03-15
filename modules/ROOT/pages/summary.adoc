@@ -29,7 +29,7 @@ La innovació en els processos de contractació permetrà a la vegada diversific
 
 * La promoció de l'ús de metodologies àgils per als serveis digitals, internament i en les relacions amb proveïdors.
 
-* La revisió dels procediments de con-tractació d'actius i serveis tecnològics per reforçar la sobirania tecnològica i de les dades.
+* La revisió dels procediments de contractació d'actius i serveis tecnològics per reforçar la sobirania tecnològica i de les dades.
 
 * L'establiment de l'ús del programari lliure i de codi obert per als sistemes municipals, excepte circumstàncies excepcionals i justificades.
 
@@ -58,9 +58,9 @@ Aquests documents són:
 
 * Guia de Compra pública de Tecnologia.
 
-L'ús responsable i ètic de dades, és un element L'ús responsable i ètic de dades, és un element essencial dins Pla de Transformació Digital de l'Ajuntament, en especial la estratègia de Da-des Obertes i el Data Commons, els projectes
+L'ús responsable i ètic de dades, és un element L'ús responsable i ètic de dades, és un element essencial dins Pla de Transformació Digital de l'Ajuntament, en especial la estratègia de Dades Obertes i el Data Commons, els projectes
 
-“Data Driven” i la interoperabilitat basada en formats de dades oberts. Les corresponents directrius i la seva implementació es des-envoluparan en una nova mesura de govern sobre la Estratègia de l'Ús Responsable i Ètic de Dades a l'Ajuntament de Barcelona, on es concretaran els detalls tècnics, processos i responsabilitats.
+“Data Driven” i la interoperabilitat basada en formats de dades oberts. Les corresponents directrius i la seva implementació es desenvoluparan en una nova mesura de govern sobre la Estratègia de l'Ús Responsable i Ètic de Dades a l'Ajuntament de Barcelona, on es concretaran els detalls tècnics, processos i responsabilitats.
 
 En aquesta mesura de govern també s'explica com s'aplicaran les metodologies de desenvolupament àgil a l'Ajuntament de Barcelona, transformant els equips de producte verticals en grups de treball àgils orientats al servei a través de projectes emblemàtics.
 És per això que l'IMI està posant en marxa una Oficina Tècnica Àgil i un equip de projectes àgils.
@@ -68,9 +68,9 @@ En aquesta mesura de govern també s'explica com s'aplicaran les metodologies de
 Des d'una perspectiva estrictament tecnològica, l'objectiu és la creació d'un ecosistema i una infraestructura pública i oberta d'aplicacions i serveis interoperables i reutilitzables.
 Per això, cal canviar la forma en que l'administració pública opera mitjançant l'ús d'estàndards oberts i programari lliure i de codi obert, implementant interfícies informàtiques (API) obertes, públiques i ben documentades que proporcionin l‘accés a les dades obertes de l'Administració per a permetre que el sector TIC i, fins i tot altres administracions, puguin col·laborar amb l'Ajuntament per a lliurar aplicacions i serveis digitals àgils, oberts i ètics.
 
-Els serveis que primer es beneficiaran d'aquests canvis són: el nou portal de d'atenció ciutadana, els serveis al mòbil per a la ciutadania, la nova agenda d'actes i equipa-ments de la ciutat, el quadre de comandament sobre la ciutat obert als ciutadans, el portal pels proveïdors de tecnologia, i el nou servei d'identitat digital al mòbil.
+Els serveis que primer es beneficiaran d'aquests canvis són: el nou portal de d'atenció ciutadana, els serveis al mòbil per a la ciutadania, la nova agenda d'actes i equipaments de la ciutat, el quadre de comandament sobre la ciutat obert als ciutadans, el portal pels proveïdors de tecnologia, i el nou servei d'identitat digital al mòbil.
 
-Amb la formació dels nous equips àgils, com-prendrem les capacitats que necessitem i ens permetrà desenvolupar un pla de contractació i un programa de creació de competències internes per impulsar la transformació. Paral·lelament, l'Ajuntament complementarà les competències internes amb habilitats i serveis proveïts per les empreses més innovadores del sector, a través d'una contractació innovadora i la creació d'una plataforma digital de contractació.
+Amb la formació dels nous equips àgils, comprendrem les capacitats que necessitem i ens permetrà desenvolupar un pla de contractació i un programa de creació de competències internes per impulsar la transformació. Paral·lelament, l'Ajuntament complementarà les competències internes amb habilitats i serveis proveïts per les empreses més innovadores del sector, a través d'una contractació innovadora i la creació d'una plataforma digital de contractació.
 
 *La transformació digital i la innovació no son el destí o punt d'arribada sinó un viatge, un procés que mai s'acaba* i en el que les iteracions es van succeint una darrera l'altre fins assolir el resultat desitjat.
 Els productes o serveis digitals i les seves interfícies evolucionen, com un organisme viu, d'acord amb les necessitats dels ciutadans i el canvi tecnològic.
