@@ -10,7 +10,8 @@ La decisió del govern de la ciutat està basada en el Pla Barcelona Ciutat Digi
 Aquesta estableix que a l'any 2020 a l'Estat Espanyol els canals digitals han de ser prioritaris a l'hora de proveir els serveis públics.
 El Pla Barcelona Ciutat Digital estableix com un dels seus objectius prioritaris la millora radical dels serveis púbics digitals amb la finalitat de proveir als ciutadans serveis 24x7 de més qualitat i més ajustats a les seves necessitats.
 
-L'Institut Municipal d'Informàtica (IMI) és l'instrument per dur a terme aquesta transformació. L'Ajuntament de Barcelona va crear el passat 2016 un Comitè de Transformació Digital i, en paral·lel, l'IMI va crear el grup d'impuls de la Transformació Digital on es troben professionals dels diferents àmbits tecnològics.
+L'Institut Municipal d'Informàtica (IMI) és l'instrument per dur a terme aquesta transformació.
+L'Ajuntament de Barcelona va crear el passat 2016 un Comitè de Transformació Digital i, en paral·lel, l'IMI va crear el grup d'impuls de la Transformació Digital on es troben professionals dels diferents àmbits tecnològics.
 Ambdós instruments han estat creats per impulsar i governar aquest important procés.
 
 El Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis, creat per el Comissionat i l'IMI, l'octubre del 2016, després del llançament del Pla Digital de Transformació, és l'impulsor de la innovació i l'excel·lència tècnica enfocat al lliurament de resultats.
@@ -56,7 +57,8 @@ Aquests documents són:
 
 * Guia de Compra pública de Tecnologia.
 
-L'ús responsable i ètic de dades, és un element L'ús responsable i ètic de dades, és un element essencial dins Pla de Transformació Digital de l'Ajuntament, en especial la estratègia de Dades Obertes i el Data Commons, els projectes “Data Driven” i la interoperabilitat basada en formats de dades oberts. Les corresponents directrius i la seva implementació es desenvoluparan en una nova mesura de govern sobre la Estratègia de l'Ús Responsable i Ètic de Dades a l'Ajuntament de Barcelona, on es concretaran els detalls tècnics, processos i responsabilitats.
+L'ús responsable i ètic de dades, és un element L'ús responsable i ètic de dades, és un element essencial dins Pla de Transformació Digital de l'Ajuntament, en especial la estratègia de Dades Obertes i el Data Commons, els projectes “Data Driven” i la interoperabilitat basada en formats de dades oberts.
+Les corresponents directrius i la seva implementació es desenvoluparan en una nova mesura de govern sobre la Estratègia de l'Ús Responsable i Ètic de Dades a l'Ajuntament de Barcelona, on es concretaran els detalls tècnics, processos i responsabilitats.
 
 En aquesta mesura de govern també s'explica com s'aplicaran les metodologies de desenvolupament àgil a l'Ajuntament de Barcelona, transformant els equips de producte verticals en grups de treball àgils orientats al servei a través de projectes emblemàtics.
 És per això que l'IMI està posant en marxa una Oficina Tècnica Àgil i un equip de projectes àgils.
@@ -66,7 +68,8 @@ Per això, cal canviar la forma en que l'administració pública opera mitjança
 
 Els serveis que primer es beneficiaran d'aquests canvis són: el nou portal de d'atenció ciutadana, els serveis al mòbil per a la ciutadania, la nova agenda d'actes i equipaments de la ciutat, el quadre de comandament sobre la ciutat obert als ciutadans, el portal pels proveïdors de tecnologia, i el nou servei d'identitat digital al mòbil.
 
-Amb la formació dels nous equips àgils, comprendrem les capacitats que necessitem i ens permetrà desenvolupar un pla de contractació i un programa de creació de competències internes per impulsar la transformació. Paral·lelament, l'Ajuntament complementarà les competències internes amb habilitats i serveis proveïts per les empreses més innovadores del sector, a través d'una contractació innovadora i la creació d'una plataforma digital de contractació.
+Amb la formació dels nous equips àgils, comprendrem les capacitats que necessitem i ens permetrà desenvolupar un pla de contractació i un programa de creació de competències internes per impulsar la transformació.
+Paral·lelament, l'Ajuntament complementarà les competències internes amb habilitats i serveis proveïts per les empreses més innovadores del sector, a través d'una contractació innovadora i la creació d'una plataforma digital de contractació.
 
 *La transformació digital i la innovació no son el destí o punt d'arribada sinó un viatge, un procés que mai s'acaba* i en el que les iteracions es van succeint una darrera l'altre fins assolir el resultat desitjat.
 Els productes o serveis digitals i les seves interfícies evolucionen, com un organisme viu, d'acord amb les necessitats dels ciutadans i el canvi tecnològic.
