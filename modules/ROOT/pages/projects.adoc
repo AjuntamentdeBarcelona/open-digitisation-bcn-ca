@@ -93,4 +93,4 @@ Aquesta nova versió es desenvoluparà íntegrament en programari de codi obert 
 
 Calendari d'execució dels projectes exemplars relacionats amb l'aplicació de les metodologies àgils i l'ús de programari i estàndards oberts (Figura 5):
 
-image::open-digit-p33-schedule-{lang}.svg[_FIGURA 5: Calendari d'execució_]
+image::open-digit-p33-schedule-{lang}.svg[_FIGURA 5: Calendari d'execució_, align="center"]

@@ -18,9 +18,9 @@ En la mateixa enquesta es mesurarà l'ajust dels serveis a les necessitats del �
 Una altra mètrica important que s'utilitzarà per monitoritzar l'èxit del programa, és la disponibilitat dels serveis públics digitals.
 En el següent gràfic (Figura 6), es mostren els resultats respecte disponibilitat i prestació de serveis del primer semestre del 2017.
 
-image::open-digit-p34-pki-{lang}.svg[_FIGURA 6: Indicadors de disponibilitat de serveis_]
+image::open-digit-p34-pki-{lang}.svg["_FIGURA 6: Indicadors de disponibilitat de serveis_, align="center"]
 
 Finalment, els recursos humans és un dels altres principals indicadors que s'utilitzaran per a mesurar el progrés d'aquest programa.
 El procés que s'està portant a terme en aquest àmbit, així com la planificació, queda reflectida en la següent imatge (Figura 7).
 
-image::open-digit-p35-resources-{lang}.svg[_FIGURA 7: Indicadors del Pla de recursos humans_]
+image::open-digit-p35-resources-{lang}.svg[_FIGURA 7: Indicadors del Pla de recursos humans_, align="center"]

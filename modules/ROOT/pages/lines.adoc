@@ -184,4 +184,4 @@ Per finalitzar, indicarem que els projectes emblemàtics que s'han apuntat en ca
 Sectorial, de Llei i Tecnològic, tal i com es reflexa a continuació (Figura 4).
 També hi podem observar l'estat d'execució dels mateixos, així com el grau d'execució del pressupost de 2017.
 
-image::open-digit-p30-roadmap-ca.svg[_FIGURA 4: Composició i execució del Pla de Mandat_]
+image::open-digit-p30-roadmap-ca.svg[_FIGURA 4: Composició i execució del Pla de Mandat_, align="center"]

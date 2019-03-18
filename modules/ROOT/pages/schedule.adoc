@@ -4,4 +4,4 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-image::open-digit-p36-schedule-{lang}.svg[]
+image::open-digit-p36-schedule-{lang}.svg[ align="center"]

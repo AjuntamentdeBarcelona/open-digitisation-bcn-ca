@@ -14,7 +14,7 @@ Per aconseguir els objectius del Programa per a la Digitalització Oberta: Progr
 
 Això es farà mitjançant un conjunt d'actuacions en cadascun dels temes que conformen el programa (Figura 2).
 
-image:open-digit-p20-areas-{lang}.svg[_FIGURA 2: Àrees d'actuació_]
+image:open-digit-p20-areas-{lang}.svg[_FIGURA 2: Àrees d'actuació_, align="center"]
 
 == Serveis digitals àgils i centrats en l'usuari
 
@@ -178,4 +178,4 @@ Aquestes capacitats i habilitats estaran recolzades per un conjunt de comportame
 
 A continuació (Figura 3), es mostren els resultats més importants, que ja s'han assolit, en les àrees d'actuació descrites.
 
-image::open-digit-p25-guides-{lang}.svg[FIGURA 3: Guies]
+image::open-digit-p25-guides-{lang}.svg[FIGURA 3: Guies, align="center"]
