@@ -10,7 +10,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == Les metodologies àgils a l'ajuntament de barcelona
 
-== Guia se sobirania tecnològica
+== Guia de sobirania tecnològica
 
 == Detalls del pla de migració a codi obert
 
